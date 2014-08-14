@@ -1,0 +1,5 @@
+#Configuration for librarian-puppet. For example:
+
+forge "https://forgeapi.puppetlabs.com"
+
+mod "puppetlabs/stdlib", "4.3.2"

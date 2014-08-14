@@ -1,0 +1,5 @@
+<VirtualHost *:80>
+    ServerAdmin webmaster@techno.local
+    DocumentRoot /vagrant/public
+    ServerName tp-git.localhost.fctechno.com
+</VirtualHost>
